@@ -59,7 +59,7 @@ namespace CommandAPI.Controllers
             return CreatedAtRoute(nameof(GetCommandById), new { Id = commandReadDto.Id }, commandReadDto);
         }
 
-        [HttpPut("id")]
+        [HttpPut("{id}")]
         public ActionResult UpdateCommand(int id, CommandUpdateDto commandUpdateDto)
         {
             var commandModelfromRepo = _repository.GetCommandById(id);
@@ -76,6 +76,8 @@ namespace CommandAPI.Controllers
 
             return NoContent();
         }
+
+        
 
         [HttpPatch("{id}")]
         public ActionResult PartialCommandUpdate(int id, JsonPatchDocument<CommandUpdateDto> patchDoc)
@@ -104,7 +106,7 @@ namespace CommandAPI.Controllers
 
         }
 
-        [HttpDelete]
+        [HttpDelete("{id}")]
         public ActionResult DeleteCommand(int id)
         {
             var commandItem = _repository.GetCommandById(id);
