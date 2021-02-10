@@ -117,3 +117,10 @@ C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\test\CommandAPI
 C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Npgsql.dll
 C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
